@@ -44,7 +44,7 @@ val listaDeLivros: MutableList<Livro> = mutableListOf(
         titulo = "O Cortiço",
         autor = "Aluísio Azevedo",
         anoPublicacao = 1890,
-        editora = "Editora B"
+        editora = "Editora C"
     )
 )
 
@@ -94,6 +94,6 @@ val listaLivrosComNulos: MutableList<Livro?> = mutableListOf(
         titulo = "O Cortiço",
         autor = "Aluísio Azevedo",
         anoPublicacao = 1890,
-        editora = "Editora B"
+        editora = "Editora C"
     )
 )
